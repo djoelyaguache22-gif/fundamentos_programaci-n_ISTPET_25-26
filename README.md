@@ -1,5 +1,4 @@
 ## Fundamentos_programacion_ISTPET_25-26
-Proyectos <p>
 Nombre: Dennis Yaguache <p>
 Carrera: Desarrollo de Software <p> 
 Este repositorio es para empezar a crear, aprender y analizar los codigos para la progremación avanzada, creando proyectos para alimentar mi conocimiento 
